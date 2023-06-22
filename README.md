@@ -22,8 +22,11 @@ Follow the steps below to run the application:
 
 1. Download and install Flutter SDK from [here](https://flutter.dev/docs/get-started/install).
 2. Clone or download this project.
-3. Open a terminal and navigate to the project directory.
-4. Run the following command to install the dependencies:
+
+    <b>git clone https://github.com/0xBAhmet/Basic-to-do-app.git</b>
+   
+4. Open a terminal and navigate to the project directory.
+5. Run the following command to install the dependencies:
 
     <b>flutter pub get</b>
 
@@ -55,13 +58,16 @@ Uygulamayı çalıştırmak için aşağıdaki adımları izleyin:
 
 1. Flutter SDK'yı [buradan](https://flutter.dev/docs/get-started/install) indirin ve yükleyin.
 2. Bu projeyi klonlayın veya ZIP dosyası olarak indirin.
-3. Bir terminal açın ve proje dizinine gidin.
-4. Aşağıdaki komutu çalıştırarak bağımlılıkları yükleyin:
+
+    <b>git clone https://github.com/0xBAhmet/Basic-to-do-app.git</b>
+   
+4. Bir terminal açın ve proje dizinine gidin.
+5. Aşağıdaki komutu çalıştırarak bağımlılıkları yükleyin:
 
     <b>flutter pub get</b>
 
-5. Bir Flutter cihazı emüle edin veya bir fiziksel cihaz bağlayın.
-6. Aşağıdaki komutu çalıştırarak uygulamayı başlatın:
+6. Bir Flutter cihazı emüle edin veya bir fiziksel cihaz bağlayın.
+7. Aşağıdaki komutu çalıştırarak uygulamayı başlatın:
 
     <b>flutter run</b>
 
